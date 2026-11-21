@@ -1,0 +1,11 @@
+body {
+    background-color: whitesmoke;
+    padding: 4rem;
+    font-family: "Bona Nova", serif;
+    font-style: normal;
+}
+
+footer {
+    margin-top: 4rem;
+    font-size: 0.85rem;
+}
